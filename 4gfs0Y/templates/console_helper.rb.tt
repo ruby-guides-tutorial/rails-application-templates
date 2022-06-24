@@ -1,0 +1,10 @@
+require "active_support/concern"
+
+module ConsoleHelper
+  extend ActiveSupport::Concern
+
+  included do
+    puts "\n《welcome to <%= app_name %>》\n\n"
+  end
+
+end

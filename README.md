@@ -21,6 +21,7 @@ bin/rails app:template LOCATION=
 [`qaXLKJ`](./qaXLKJ) | `MySQL`
 [`5n0RMO`](./5n0RMO) | `Annotate`
 [`6xszVQ`](./6xszVQ) | `Seedbank`
+[`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 
 
 
