@@ -18,6 +18,7 @@ bin/rails app:template LOCATION=
 名称|描述|备注
 :---:|:---:|:---
 [`ZxawGQ`](./ZxawGQ) | `Dotenv`
+[`qaXLKJ`](./qaXLKJ) | `MySQL`
 
 
 
