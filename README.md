@@ -19,6 +19,7 @@ bin/rails app:template LOCATION=
 :---:|:---:|:---
 [`ZxawGQ`](./ZxawGQ) | `Dotenv`
 [`qaXLKJ`](./qaXLKJ) | `MySQL`
+[`5n0RMO`](./5n0RMO) | `Annotate`
 
 
 
