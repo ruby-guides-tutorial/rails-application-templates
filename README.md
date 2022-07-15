@@ -8,6 +8,10 @@
 bin/rails app:template LOCATION=
 ```
 
+```bash
+bundle exec spring binstub --all
+```
+
 
 ## Components
 
