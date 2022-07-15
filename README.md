@@ -27,6 +27,7 @@ bundle exec spring binstub --all
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
+[`fnWbEx`](./fnWbEx) | `RSpec`
 
 
 
