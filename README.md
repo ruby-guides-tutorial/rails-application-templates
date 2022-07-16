@@ -29,6 +29,7 @@ bundle exec spring binstub --all
 [`THsjva`](./THsjva) | `Welcome`
 [`fnWbEx`](./fnWbEx) | `RSpec`
 [`rWdQzY`](./rWdQzY) | `Fuubar` | `RSpec`
+[`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 
 
