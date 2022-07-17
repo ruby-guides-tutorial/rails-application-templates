@@ -8,7 +8,15 @@
 bin/rails app:template LOCATION=
 ```
 
+> `7.0.1`
+
 ```bash
+bundle binstubs bundler --force
+```
+
+> `5.2.8`
+
+```
 bundle exec spring binstub --all
 ```
 
