@@ -8,6 +8,7 @@ run "bundle binstub rspec-core"
 
 generate 'rspec:install'
 uncomment_lines 'spec/rails_helper.rb', /support.*require/
+comment_lines 'spec/rails_helper.rb', /.*fixture_path.*/
 
 
 # inject_into_class 'config/application.rb', 'Application' do
