@@ -40,6 +40,7 @@ bundle exec spring binstub --all
 [`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 [`MyFLdl`](./MyFLdl) | `Shoulda Matchers` | `Rspec`
+[`WFz9mc`](./WFz9mc) | `factory_bot` | `Rspec`
 
 
 
