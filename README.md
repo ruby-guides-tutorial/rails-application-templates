@@ -42,6 +42,7 @@ bundle exec spring binstub --all
 [`MyFLdl`](./MyFLdl) | `Shoulda Matchers` | `Rspec`
 [`WFz9mc`](./WFz9mc) | `factory_bot` | `Rspec`
 [`yrxv1m`](./yrxv1m) | `Faker ` | `Rspec`
+[`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 
 
 
