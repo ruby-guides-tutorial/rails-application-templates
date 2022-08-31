@@ -4,7 +4,7 @@ module ConsoleHelper
   extend ActiveSupport::Concern
 
   included do
-    puts "\n《welcome to <%= app_name %>》\n\n"
+    puts "\n《welcome to <%= app_name.sub('_', '-') %>》\n\n"
   end
 
 end

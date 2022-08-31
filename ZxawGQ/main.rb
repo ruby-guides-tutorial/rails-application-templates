@@ -1,6 +1,7 @@
 insert_into_file 'Gemfile', :after => /:development, :test do/ do
   <<-EOS.strip_heredoc.indent(2)
-    gem 'dotenv-rails', '~> 2.7', '>= 2.7.6'
+  
+    gem 'dotenv-rails', '~> 2.8', '>= 2.8.1'
   EOS
 end
 

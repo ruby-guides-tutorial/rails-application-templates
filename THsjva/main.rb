@@ -3,13 +3,14 @@ def source_paths
   [File.expand_path('../templates', __FILE__)]
 end
 
-gem 'jbuilder', '~> 2.11', '>= 2.11.5'
-gem 'oj', '~> 3.13', '>= 3.13.14'
-gem 'rack-cors', '~> 1.1', '>= 1.1.1'
+insert_into_file 'Gemfile', "\ngem 'oj', '~> 3.13', '>= 3.13.21'", :after => '# gem "jbuilder"'
+gsub_file 'Gemfile', '# gem "jbuilder"', "gem 'jbuilder', '~> 2.11', '>= 2.11.5'"
+gsub_file 'Gemfile', '# gem "rack-cors"', "gem 'rack-cors', '~> 1.1', '>= 1.1.1'"
+
 
 run_bundle
 
-
+# @TODO 动态调整内容
 copy_file 'welcome_controller.rb', 'app/controllers/welcome_controller.rb'
 copy_file 'index.json.jbuilder', 'app/views/welcome/index.json.jbuilder'
 copy_file 'index.html.erb', 'app/views/welcome/index.html.erb'

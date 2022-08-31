@@ -1,5 +1,6 @@
 insert_into_file 'Gemfile', :after => /:development, :test do/ do
   <<-EOS.strip_heredoc.indent(2)
+  
     gem 'seedbank', '~> 0.5.0'
   EOS
 end
