@@ -43,6 +43,7 @@ bundle exec spring binstub --all
 [`WFz9mc`](./WFz9mc) | `factory_bot` | `Rspec`
 [`yrxv1m`](./yrxv1m) | `Faker ` | `Rspec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
+[`uoVMZi`](./uoVMZi) | `Enumerize`
 
 
 
