@@ -44,6 +44,7 @@ bundle exec spring binstub --all
 [`yrxv1m`](./yrxv1m) | `Faker ` | `Rspec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 [`uoVMZi`](./uoVMZi) | `Enumerize`
+[`PpsT4C`](./PpsT4C) | `Ransack`
 
 
 
