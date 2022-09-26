@@ -48,8 +48,18 @@ bundle exec spring binstub --all
 
 **TODO**
 
-* [https://github.com/javan/whenever](https://github.com/javan/whenever)
-* [https://github.com/njh/ruby-mqtt](https://github.com/njh/ruby-mqtt)
+* [`whenever`](https://github.com/javan/whenever)
+* [backup](https://github.com/backup/backup)
+* [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
+* [`friendly_id`](https://rubygems.org/gems/friendly_id)
+* [`discard`](https://github.com/jhawthorn/discard/) / [paranoia](https://github.com/rubysherpas/paranoia)
+* [`pagy`](https://github.com/ddnexus/pagy)、[`kaminari`](./kaminari)、[`will_paginate`](https://rubygems.org/gems/will_paginate)
+* [`apartment`](https://rubygems.org/gems/apartment)
+* [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
+* [`warden`](https://github.com/wardencommunity/warden)
+* [`acts_as_list`](https://github.com/brendon/acts_as_list)
+* [Pundit](https://github.com/varvet/pundit) / [cancancan](https://github.com/CanCanCommunity/cancancan)
+* [x] [hashid-rails](https://github.com/jcypret/hashid-rails) / [hashids.rb](https://github.com/peterhellberg/hashids.rb)
 
 
 ## Ref
