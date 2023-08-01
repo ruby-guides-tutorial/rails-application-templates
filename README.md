@@ -45,6 +45,7 @@ bundle exec spring binstub --all
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 [`uoVMZi`](./uoVMZi) | `Enumerize`
 [`PpsT4C`](./PpsT4C) | `Ransack`
+[`SYlj8V`](./SYlj8V) | `Pagy`
 
 **TODO**
 
@@ -53,7 +54,7 @@ bundle exec spring binstub --all
 * [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
 * [`friendly_id`](https://rubygems.org/gems/friendly_id)
 * [`discard`](https://github.com/jhawthorn/discard/) / [paranoia](https://github.com/rubysherpas/paranoia)
-* [`pagy`](https://github.com/ddnexus/pagy)、[`kaminari`](./kaminari)、[`will_paginate`](https://rubygems.org/gems/will_paginate)
+* [`kaminari`](./kaminari)、[`will_paginate`](https://rubygems.org/gems/will_paginate)
 * [`apartment`](https://rubygems.org/gems/apartment)
 * [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
 * [`warden`](https://github.com/wardencommunity/warden)
