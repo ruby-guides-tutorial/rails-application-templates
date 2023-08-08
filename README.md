@@ -46,6 +46,7 @@ bundle exec spring binstub --all
 [`uoVMZi`](./uoVMZi) | `Enumerize`
 [`PpsT4C`](./PpsT4C) | `Ransack`
 [`SYlj8V`](./SYlj8V) | `Pagy`
+[`po50tx`](./po50tx) | `Docker`
 
 **TODO**
 
