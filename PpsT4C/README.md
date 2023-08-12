@@ -6,6 +6,25 @@
 `Mon Sep 19 17:08:31 CST 2022` |
 
 
+## Search parameter
+
+> `config/initializers/ransack.rb`
+
+```ruby
+Ransack.configure do |c|
+  # Change default search parameter key name.
+  # Default key name is :q
+  c.search_key = :query
+end
+```
+
+**controller**
+
+```
+params[:q]
+```
+
+
 ## 排序
 
 ```
