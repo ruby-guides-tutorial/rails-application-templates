@@ -47,6 +47,7 @@ bundle exec spring binstub --all
 [`PpsT4C`](./PpsT4C) | `Ransack`
 [`SYlj8V`](./SYlj8V) | `Pagy`
 [`po50tx`](./po50tx) | `Docker`
+[`ORk8NK`](./ORk8NK) | `FriendlyId`
 
 **TODO**
 
