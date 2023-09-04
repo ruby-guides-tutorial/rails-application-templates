@@ -53,7 +53,6 @@ bundle exec spring binstub --all
 * [`whenever`](https://github.com/javan/whenever)
 * [backup](https://github.com/backup/backup)
 * [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
-* [`friendly_id`](https://rubygems.org/gems/friendly_id)
 * [`discard`](https://github.com/jhawthorn/discard/) / [paranoia](https://github.com/rubysherpas/paranoia)
 * [`kaminari`](./kaminari)、[`will_paginate`](https://rubygems.org/gems/will_paginate)
 * [`apartment`](https://rubygems.org/gems/apartment)
