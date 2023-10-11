@@ -2,9 +2,9 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Fri Jul 15 18:19:02 CST 2022` |
+`Mon Sep 11 21:21:43 CST 2023` |
 
 
 ## Ref
 
-* [https://github.com/rspec/rspec-rails](https://github.com/rspec/rspec-rails)
+* <https://github.com/rspec/rspec-rails>
