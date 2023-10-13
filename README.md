@@ -62,6 +62,27 @@ bundle exec spring binstub --all
 * [`acts_as_list`](https://github.com/brendon/acts_as_list)
 * [Pundit](https://github.com/varvet/pundit) / [cancancan](https://github.com/CanCanCommunity/cancancan)
 * [x] [hashid-rails](https://github.com/jcypret/hashid-rails) / [hashids.rb](https://github.com/peterhellberg/hashids.rb)
+* <https://rubygems.org/gems/rails-i18n>
+* <https://rubygems.org/gems/rack-cors>
+* <https://rubygems.org/gems/jbuilder>
+* <https://rubygems.org/gems/bcrypt>
+* <https://rubygems.org/gems/debug>
+* <https://rubygems.org/gems/rack>
+* <https://rubygems.org/gems/warden>
+* <https://rubygems.org/gems/jwt>
+* <https://rubygems.org/gems/ransack>
+* <https://rubygems.org/gems/hashid-rails>
+* <https://rubygems.org/gems/enumerize>
+* <https://rubygems.org/gems/dotenv-rails>
+* <https://rubygems.org/gems/annotate>
+* <https://rubygems.org/gems/faker>
+* <https://rubygems.org/gems/pagy>
+* <https://rubygems.org/gems/acts_as_list>
+* <https://rubygems.org/gems/apartment>
+* <https://rubygems.org/gems/discard>
+* <https://rubygems.org/gems/friendly_id>
+* <https://rubygems.org/gems/chinese_pinyin>
+* <https://rubygems.org/gems/public_activity>
 
 
 ## Ref
