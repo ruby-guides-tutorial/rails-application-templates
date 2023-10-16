@@ -34,10 +34,10 @@ bundle exec spring binstub --all
 [`5n0RMO`](./5n0RMO) | `Annotate`
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`xjnKpM`](./xjnKpM) | `rails-i18n`
+[`yrxv1m`](./yrxv1m) | `Faker`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
-[`yrxv1m`](./yrxv1m) | `Faker ` | `Rspec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 [`uoVMZi`](./uoVMZi) | `Enumerize`
 [`PpsT4C`](./PpsT4C) | `Ransack`
