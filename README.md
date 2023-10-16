@@ -35,7 +35,6 @@ bundle exec spring binstub --all
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
-[`rWdQzY`](./rWdQzY) | `Fuubar` | `RSpec`
 [`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 [`MyFLdl`](./MyFLdl) | `Shoulda Matchers` | `Rspec`
