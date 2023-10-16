@@ -38,7 +38,6 @@ bundle exec spring binstub --all
 [`THsjva`](./THsjva) | `Welcome`
 [`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
-[`MyFLdl`](./MyFLdl) | `Shoulda Matchers` | `Rspec`
 [`yrxv1m`](./yrxv1m) | `Faker ` | `Rspec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 [`uoVMZi`](./uoVMZi) | `Enumerize`
