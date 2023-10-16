@@ -33,6 +33,7 @@ bundle exec spring binstub --all
 [`qaXLKJ`](./qaXLKJ) | `MySQL`
 [`5n0RMO`](./5n0RMO) | `Annotate`
 [`6xszVQ`](./6xszVQ) | `Seedbank`
+[`xjnKpM`](./xjnKpM) | `rails-i18n`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
 [`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
@@ -67,7 +68,6 @@ bundle exec spring binstub --all
 * [`acts_as_list`](https://github.com/brendon/acts_as_list)
 * [Pundit](https://github.com/varvet/pundit) / [cancancan](https://github.com/CanCanCommunity/cancancan)
 * [x] [hashid-rails](https://github.com/jcypret/hashid-rails) / [hashids.rb](https://github.com/peterhellberg/hashids.rb)
-* <https://rubygems.org/gems/rails-i18n>
 * <https://rubygems.org/gems/rack-cors>
 * <https://rubygems.org/gems/jbuilder>
 * <https://rubygems.org/gems/bcrypt>
