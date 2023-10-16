@@ -4,7 +4,6 @@ end
 
 run_bundle
 
-run "bundle binstub guard"
 run "bundle exec guard init rspec"
 gsub_file 'Guardfile', /cmd: "bundle exec rspec"/, 'cmd: "bin/rspec"'
 

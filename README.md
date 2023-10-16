@@ -36,7 +36,6 @@ bundle exec spring binstub --all
 [`xjnKpM`](./xjnKpM) | `rails-i18n`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
-[`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 [`yrxv1m`](./yrxv1m) | `Faker ` | `Rspec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
@@ -52,6 +51,7 @@ bundle exec spring binstub --all
 :---:|:---:|:---
 [`fnWbEx`](./fnWbEx) | `rspec-rails`
 [`WFz9mc`](./WFz9mc) | `factory_bot`
+[`QJqK6v`](./QJqK6v) | `Guard::RSpec`
 [`oeR4Nd`](./oeR4Nd) | `Capybara`
 
 **TODO**
