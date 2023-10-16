@@ -4,6 +4,11 @@
 |:---:|:---:
 `Mon Oct 16 16:46:26 CST 2023` |
 
+**selenium**
+
+* [selenium-webdriver](https://github.com/SeleniumHQ/selenium/tree/master/rb)
+* [docker-selenium](https://github.com/SeleniumHQ/docker-selenium)
+* [~~webdrivers~~](https://github.com/titusfortner/webdrivers)
 
 ## Ref
 

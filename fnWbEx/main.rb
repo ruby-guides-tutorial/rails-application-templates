@@ -7,7 +7,7 @@ run "bundle binstub rspec-core"
 generate 'rspec:install'
 append_to_file '.rspec', '--format doc'
 
-# uncomment_lines 'spec/rails_helper.rb', /support.*require/
+uncomment_lines 'spec/rails_helper.rb', /support.*require/
 # comment_lines 'spec/rails_helper.rb', /.*fixture_path.*/
 
 
