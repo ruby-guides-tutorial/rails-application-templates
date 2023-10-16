@@ -17,8 +17,6 @@ inject_into_class 'config/application.rb', 'Application' do
     # RSpec
     config.generators do |g|
       g.test_framework :rspec,
-        # 禁止生成便于在测试数据库中创建对象的文件。第 4 章开始使用预构件时再把 这个选项改为 true。
-        # fixtures: false,
         view_specs: false,
         helper_specs: false,
         # 如果是大型应用，路由很复杂，最好还 是测试一下
