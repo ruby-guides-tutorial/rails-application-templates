@@ -53,6 +53,7 @@ bundle exec spring binstub --all
 :---:|:---:|:---
 [`fnWbEx`](./fnWbEx) | `rspec-rails`
 [`WFz9mc`](./WFz9mc) | `factory_bot`
+[`oeR4Nd`](./oeR4Nd) | `Capybara`
 
 **TODO**
 
