@@ -6,4 +6,4 @@
 
 ## Ref
 
-* [https://github.com/james2m/seedbank](https://github.com/james2m/seedbank)
+* <https://github.com/james2m/seedbank>
