@@ -29,7 +29,7 @@ bundle exec spring binstub --all
 
 名称|描述|备注
 :---:|:---:|:---
-[`ZxawGQ`](./ZxawGQ) | `Dotenv`
+[`ZxawGQ`](./ZxawGQ) | `dotenv`
 [`qaXLKJ`](./qaXLKJ) | `MySQL`
 [`5n0RMO`](./5n0RMO) | `Annotate`
 [`6xszVQ`](./6xszVQ) | `Seedbank`
@@ -79,8 +79,6 @@ bundle exec spring binstub --all
 * <https://rubygems.org/gems/ransack>
 * <https://rubygems.org/gems/hashid-rails>
 * <https://rubygems.org/gems/enumerize>
-* <https://rubygems.org/gems/dotenv-rails>
-* <https://rubygems.org/gems/annotate>
 * <https://rubygems.org/gems/faker>
 * <https://rubygems.org/gems/pagy>
 * <https://rubygems.org/gems/acts_as_list>
