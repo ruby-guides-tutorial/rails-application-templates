@@ -35,7 +35,6 @@ bundle exec spring binstub --all
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
-[`fnWbEx`](./fnWbEx) | `RSpec`
 [`rWdQzY`](./rWdQzY) | `Fuubar` | `RSpec`
 [`QJqK6v`](./QJqK6v/) | `Guard::RSpec` | `RSpec`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
@@ -48,6 +47,12 @@ bundle exec spring binstub --all
 [`SYlj8V`](./SYlj8V) | `Pagy`
 [`po50tx`](./po50tx) | `Docker`
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
+
+## Rspec
+
+名称|描述|备注
+:---:|:---:|:---
+[`fnWbEx`](./fnWbEx) | `rspec-rails`
 
 **TODO**
 

@@ -23,6 +23,7 @@ inject_into_class 'config/application.rb', 'Application' do
         helper_specs: false,
         # 如果是大型应用，路由很复杂，最好还 是测试一下
         routing_specs: false,
+        # 若想跳过 控制器测试
         controller_specs: false
     end
   EOS
