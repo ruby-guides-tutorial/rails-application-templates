@@ -34,15 +34,15 @@ bundle exec spring binstub --all
 [`5n0RMO`](./5n0RMO) | `Annotate`
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`xjnKpM`](./xjnKpM) | `rails-i18n`
-[`yrxv1m`](./yrxv1m) | `Faker`
-[`wGp1mM`](./wGp1mM) | `Discard`
+[`yrxv1m`](./yrxv1m) | `Faker` | 假数据
+[`wGp1mM`](./wGp1mM) | `Discard` | 软删除
+[`SYlj8V`](./SYlj8V) | `Pagy` | 分页
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 [`uoVMZi`](./uoVMZi) | `Enumerize`
 [`PpsT4C`](./PpsT4C) | `Ransack`
-[`SYlj8V`](./SYlj8V) | `Pagy`
 [`po50tx`](./po50tx) | `Docker`
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
 
@@ -60,7 +60,7 @@ bundle exec spring binstub --all
 * [`whenever`](https://github.com/javan/whenever)
 * [backup](https://github.com/backup/backup)
 * [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
-* [`kaminari`](./kaminari)、[`will_paginate`](https://rubygems.org/gems/will_paginate)
+[`will_paginate`](https://rubygems.org/gems/will_paginate)
 * [`apartment`](https://rubygems.org/gems/apartment)
 * [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
 * [`warden`](https://github.com/wardencommunity/warden)
@@ -77,7 +77,6 @@ bundle exec spring binstub --all
 * <https://rubygems.org/gems/ransack>
 * <https://rubygems.org/gems/hashid-rails>
 * <https://rubygems.org/gems/enumerize>
-* <https://rubygems.org/gems/pagy>
 * <https://rubygems.org/gems/acts_as_list>
 * <https://rubygems.org/gems/apartment>
 * <https://rubygems.org/gems/friendly_id>

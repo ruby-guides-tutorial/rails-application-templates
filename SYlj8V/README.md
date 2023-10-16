@@ -2,7 +2,7 @@
 
 |本期版本|上期版本 
 |:---:|:---:
-`Fri Jun 24 14:47:06 CST 2022` | 
+`Mon Oct 16 23:18:15 CST 2023` | 
 
 > `controller`
 
@@ -27,3 +27,5 @@ json.meta pagy_metadata(@pagy)
 ## Ref
 
 * <https://ddnexus.github.io/pagy/docs/how-to/>
+* <https://github.com/kaminari/kaminari>
+* <https://github.com/mislav/will_paginate>
