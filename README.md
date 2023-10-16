@@ -35,6 +35,7 @@ bundle exec spring binstub --all
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`xjnKpM`](./xjnKpM) | `rails-i18n`
 [`yrxv1m`](./yrxv1m) | `Faker`
+[`wGp1mM`](./wGp1mM) | `Discard`
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
 [`THsjva`](./THsjva) | `Welcome`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
@@ -59,7 +60,6 @@ bundle exec spring binstub --all
 * [`whenever`](https://github.com/javan/whenever)
 * [backup](https://github.com/backup/backup)
 * [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
-* [`discard`](https://github.com/jhawthorn/discard/) / [paranoia](https://github.com/rubysherpas/paranoia)
 * [`kaminari`](./kaminari)、[`will_paginate`](https://rubygems.org/gems/will_paginate)
 * [`apartment`](https://rubygems.org/gems/apartment)
 * [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
@@ -77,11 +77,9 @@ bundle exec spring binstub --all
 * <https://rubygems.org/gems/ransack>
 * <https://rubygems.org/gems/hashid-rails>
 * <https://rubygems.org/gems/enumerize>
-* <https://rubygems.org/gems/faker>
 * <https://rubygems.org/gems/pagy>
 * <https://rubygems.org/gems/acts_as_list>
 * <https://rubygems.org/gems/apartment>
-* <https://rubygems.org/gems/discard>
 * <https://rubygems.org/gems/friendly_id>
 * <https://rubygems.org/gems/chinese_pinyin>
 * <https://rubygems.org/gems/public_activity>
