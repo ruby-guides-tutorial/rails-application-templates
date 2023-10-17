@@ -60,7 +60,6 @@ bundle exec spring binstub --all
 * [`whenever`](https://github.com/javan/whenever)
 * [backup](https://github.com/backup/backup)
 * [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
-[`will_paginate`](https://rubygems.org/gems/will_paginate)
 * [`apartment`](https://rubygems.org/gems/apartment)
 * [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
 * [`warden`](https://github.com/wardencommunity/warden)
