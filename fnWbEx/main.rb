@@ -7,6 +7,7 @@ gem_group :development, :test do
   gem 'rspec-rails', '~> 6.0', '>= 6.0.3'
   gem 'fuubar', '~> 2.5', '>= 2.5.1'
   gem 'shoulda-matchers', '~> 5.3'
+  gem 'timecop', '~> 0.9.8'
 end
 
 run_bundle
