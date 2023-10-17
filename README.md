@@ -54,6 +54,7 @@ bundle exec spring binstub --all
 [`WFz9mc`](./WFz9mc) | `factory_bot`
 [`QJqK6v`](./QJqK6v) | `Guard::RSpec`
 [`oeR4Nd`](./oeR4Nd) | `Capybara`
+[`f30MXS`](./f30MXS) | `Cuprite` | `wip`
 
 **TODO**
 
