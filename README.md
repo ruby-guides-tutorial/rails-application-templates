@@ -46,6 +46,13 @@ bundle exec spring binstub --all
 [`po50tx`](./po50tx) | `Docker`
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
 
+
+## Active Storage
+
+名称|描述|备注
+:---:|:---:|:---
+[`JUZ8cp`](./JUZ8cp) | `ImageProcessing` |
+
 ## Rspec
 
 名称|描述|备注
