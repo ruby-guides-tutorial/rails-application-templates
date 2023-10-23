@@ -3,10 +3,9 @@ def source_paths
   [File.expand_path('../templates', __FILE__)]
 end
 
-insert_into_file 'Gemfile', "\ngem 'oj', '~> 3.13', '>= 3.13.21'", :after => '# gem "jbuilder"'
-gsub_file 'Gemfile', '# gem "jbuilder"', "gem 'jbuilder', '~> 2.11', '>= 2.11.5'"
-gsub_file 'Gemfile', '# gem "rack-cors"', "gem 'rack-cors', '~> 1.1', '>= 1.1.1'"
-
+# insert_into_file 'Gemfile', "\ngem 'oj', '~> 3.13', '>= 3.13.21'", :after => '# gem "jbuilder"'
+uncomment_lines 'Gemfile', /gem\s"jbuilder"/
+uncomment_lines 'Gemfile', /gem\s"rack-cors"/
 
 run_bundle
 
