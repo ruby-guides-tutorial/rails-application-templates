@@ -21,11 +21,19 @@ bundle exec spring binstub --all
 ```
 
 
+## 部署
+
+* `Google`: `rails 部署 新工具`
+* <https://kamal-deploy.org/>
+* [Rails 部署實踐 - 容器相關工具](https://blog.aotoki.me/posts/2022/05/20/rails-deployment-in-practice-tools-related-container/)
+
+
 ## Components
 
 ```ruby
 [(0..9), ('a'..'z'), ('A'..'Z')].map(&:to_a).flatten.sample(6).join
 ```
+
 
 名称|描述|备注
 :---:|:---:|:---
