@@ -10,7 +10,7 @@ run_bundle
 append_to_file '.gitignore' do
   <<-EOS.strip_heredoc
     # dotenv
-    .env.*\.local
+    !.env.template
   EOS
 end
 
