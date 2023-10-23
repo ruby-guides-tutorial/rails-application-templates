@@ -52,6 +52,7 @@ bundle exec spring binstub --all
 名称|描述|备注
 :---:|:---:|:---
 [`JUZ8cp`](./JUZ8cp) | `ImageProcessing` |
+[`KPdGmU`](./KPdGmU) | `ActiveStorage Aliyun Service`
 
 ## Rspec
 
