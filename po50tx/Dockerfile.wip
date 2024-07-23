@@ -1,0 +1,3 @@
+FROM ruby:3.2
+
+LABEL maintainer="Guxiaobai <sikuan.gu@gmail.com>"

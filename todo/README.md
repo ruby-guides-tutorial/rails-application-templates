@@ -1,0 +1,1 @@
+* [Rails 7.1, log to STDOUT and log/production.log](https://stackoverflow.com/questions/77486759/rails-7-1-log-to-stdout-and-log-production-log)
