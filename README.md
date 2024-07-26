@@ -89,7 +89,6 @@ bundle exec spring binstub --all
 * <https://rubygems.org/gems/debug>
 * <https://rubygems.org/gems/rack>
 * <https://rubygems.org/gems/warden>
-* <https://rubygems.org/gems/jwt>
 * <https://rubygems.org/gems/ransack>
 * <https://rubygems.org/gems/hashid-rails>
 * <https://rubygems.org/gems/enumerize>
