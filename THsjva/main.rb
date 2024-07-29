@@ -19,5 +19,5 @@ copy_file "cors.rb", "config/initializers/cors.rb"
 
 route "root 'welcome#index'"
 
-git add: "."
-git commit: %Q<-m 'Support Api'>
+# git add: "."
+# git commit: %Q<-m 'Support Api'>

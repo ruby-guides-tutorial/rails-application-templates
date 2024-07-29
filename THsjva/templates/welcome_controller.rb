@@ -3,7 +3,7 @@ class WelcomeController < ApplicationController
 
   def index
     @title =  "snake_api"
-    @copyright = "copyright (c) 2021 guxiaobai <sikuan.gu@gmail.com>"
+    @copyright = "copyright (c) 2024 Guxiaobai <sikuan.gu@gmail.com>"
     respond_to :json, :html
   end
 end
