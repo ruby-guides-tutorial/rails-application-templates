@@ -19,5 +19,8 @@ copy_file "cors.rb", "config/initializers/cors.rb"
 
 route "root 'welcome#index'"
 
+create_file 'Procfile'
+append_to_file 'Procfile', 'web: bin/rails s -b 0.0.0.0 -p 3000'
+
 # git add: "."
 # git commit: %Q<-m 'Support Api'>
