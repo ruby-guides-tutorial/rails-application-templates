@@ -54,6 +54,7 @@ bundle exec spring binstub --all
 [`po50tx`](./po50tx) | `Docker`
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
 [`DsHgV5`](./DsHgV5) | `Pundit`
+[`QAzYoH`](./QAzYoH) | `Devise`
 
 
 ## Active Storage
