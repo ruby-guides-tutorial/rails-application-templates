@@ -6,4 +6,4 @@
 
 ## Ref
 
-* [https://github.com/guard/guard-rspec](https://github.com/guard/guard-rspec)
+* <https://github.com/guard/guard-rspec>
