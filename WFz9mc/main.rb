@@ -4,7 +4,7 @@ def source_paths
 end
 
 gem_group :development, :test do
-  gem 'factory_bot_rails', '~> 6.2'
+  gem 'factory_bot_rails', '~> 6.4', '>= 6.4.3'
 end
 
 run_bundle
