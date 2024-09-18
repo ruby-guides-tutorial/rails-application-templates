@@ -53,6 +53,7 @@ bundle exec spring binstub --all
 [`PpsT4C`](./PpsT4C) | `Ransack`
 [`po50tx`](./po50tx) | `Docker`
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
+[`DsHgV5`](./DsHgV5) | `Pundit`
 
 
 ## Active Storage
@@ -81,7 +82,7 @@ bundle exec spring binstub --all
 * [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
 * [`warden`](https://github.com/wardencommunity/warden)
 * [`acts_as_list`](https://github.com/brendon/acts_as_list)
-* [Pundit](https://github.com/varvet/pundit) / [cancancan](https://github.com/CanCanCommunity/cancancan)
+* [cancancan](https://github.com/CanCanCommunity/cancancan)
 * [x] [hashid-rails](https://github.com/jcypret/hashid-rails) / [hashids.rb](https://github.com/peterhellberg/hashids.rb)
 * <https://rubygems.org/gems/rack-cors>
 * <https://rubygems.org/gems/jbuilder>
