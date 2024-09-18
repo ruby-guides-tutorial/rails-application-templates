@@ -4,10 +4,10 @@ def source_paths
 end
 
 gem_group :development, :test do
-  gem 'rspec-rails', '~> 6.0', '>= 6.0.3'
+  gem 'rspec-rails', '~> 7.0', '>= 7.0.1'
   gem 'fuubar', '~> 2.5', '>= 2.5.1'
-  gem 'shoulda-matchers', '~> 5.3'
-  gem 'timecop', '~> 0.9.8'
+  gem 'shoulda-matchers', '~> 6.4'
+  # gem 'timecop', '~> 0.9.8'
 end
 
 run_bundle
@@ -21,19 +21,19 @@ uncomment_lines 'spec/rails_helper.rb', /support.*require/
 # comment_lines 'spec/rails_helper.rb', /.*fixture_path.*/
 
 
-inject_into_class 'config/application.rb', 'Application' do
-  <<-EOS.strip_heredoc.indent(4)
+# inject_into_class 'config/application.rb', 'Application' do
+#   <<-EOS.strip_heredoc.indent(4)
 
-    # RSpec
-    config.generators do |g|
-      g.test_framework :rspec,
-        view_specs: false,
-        helper_specs: false,
-        routing_specs: false,
-        controller_specs: false
-    end
-  EOS
-end
+#     # RSpec
+#     config.generators do |g|
+#       g.test_framework :rspec,
+#         view_specs: false,
+#         helper_specs: false,
+#         routing_specs: false,
+#         controller_specs: false
+#     end
+#   EOS
+# end
 
 
 # Fuubar
