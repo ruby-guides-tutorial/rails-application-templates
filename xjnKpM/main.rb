@@ -3,7 +3,7 @@ def source_paths
   [File.expand_path('../templates', __FILE__)]
 end
 
-gem 'rails-i18n', '~> 7.0', '>= 7.0.8'
+gem 'rails-i18n', '~> 7.0', '>= 7.0.9'
 
 run_bundle
 

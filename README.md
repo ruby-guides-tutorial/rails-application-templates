@@ -55,6 +55,7 @@ bundle exec spring binstub --all
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
 [`DsHgV5`](./DsHgV5) | `Pundit`
 [`QAzYoH`](./QAzYoH) | `Devise`
+[`nl5YIt`](./nl5YIt) | `Rolify`
 
 
 ## Active Storage
