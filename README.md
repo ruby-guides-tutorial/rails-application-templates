@@ -28,7 +28,6 @@ bundle exec spring binstub --all
 :---:|:---:|:---
 [`ZxawGQ`](./ZxawGQ) | `dotenv`
 [`qaXLKJ`](./qaXLKJ) | `MySQL`
-[`5n0RMO`](./5n0RMO) | `Annotate`
 [`6xszVQ`](./6xszVQ) | `Seedbank`
 [`xjnKpM`](./xjnKpM) | `rails-i18n`
 [`yrxv1m`](./yrxv1m) | `Faker` | 假数据
