@@ -1,12 +1,6 @@
 # Rails Application Templates
 
 
-## Initialize
-
-
-```bash
-bin/rails app:template LOCATION=
-```
 
 > `7.0.1`
 
@@ -98,5 +92,4 @@ bundle exec spring binstub --all
 
 
 ## Ref
-
 
