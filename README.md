@@ -75,7 +75,7 @@ bundle exec spring binstub --all
 * [x] [hashid-rails](https://github.com/jcypret/hashid-rails) / [hashids.rb](https://github.com/peterhellberg/hashids.rb)
 * <https://rubygems.org/gems/rack-cors>
 * <https://rubygems.org/gems/jbuilder>
-* <https://rubygems.org/gems/bcrypt>
+
 * <https://rubygems.org/gems/debug>
 
 * <https://rubygems.org/gems/warden>
