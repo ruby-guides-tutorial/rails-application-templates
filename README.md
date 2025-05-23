@@ -28,7 +28,7 @@ bundle exec spring binstub --all
 :---:|:---:|:---
 [`ZxawGQ`](./ZxawGQ) | `dotenv`
 [`qaXLKJ`](./qaXLKJ) | `MySQL`
-[`6xszVQ`](./6xszVQ) | `Seedbank`
+
 [`xjnKpM`](./xjnKpM) | `rails-i18n`
 [`yrxv1m`](./yrxv1m) | `Faker` | 假数据
 [`wGp1mM`](./wGp1mM) | `Discard` | 软删除
