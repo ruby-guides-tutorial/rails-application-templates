@@ -36,7 +36,6 @@ bundle exec spring binstub --all
 [`THsjva`](./THsjva) | `Welcome`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
-[`uoVMZi`](./uoVMZi) | `Enumerize`
 [`PpsT4C`](./PpsT4C) | `Ransack`
 [`po50tx`](./po50tx) | `Docker`
 [`ORk8NK`](./ORk8NK) | `FriendlyId`
@@ -69,7 +68,6 @@ bundle exec spring binstub --all
 * [`ruby-mqtt`](https://github.com/njh/ruby-mqtt)
 * [`apartment`](https://rubygems.org/gems/apartment)
 * [`activerecord-import`](https://rubygems.org/gems/activerecord-import)
-* [`warden`](https://github.com/wardencommunity/warden)
 * [`acts_as_list`](https://github.com/brendon/acts_as_list)
 * [cancancan](https://github.com/CanCanCommunity/cancancan)
 * [x] [hashid-rails](https://github.com/jcypret/hashid-rails) / [hashids.rb](https://github.com/peterhellberg/hashids.rb)
@@ -77,8 +75,6 @@ bundle exec spring binstub --all
 * <https://rubygems.org/gems/jbuilder>
 
 * <https://rubygems.org/gems/debug>
-
-* <https://rubygems.org/gems/warden>
 * <https://rubygems.org/gems/ransack>
 * <https://rubygems.org/gems/hashid-rails>
 * <https://rubygems.org/gems/enumerize>
