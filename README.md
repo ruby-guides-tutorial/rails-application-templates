@@ -33,7 +33,6 @@ bundle exec spring binstub --all
 [`wGp1mM`](./wGp1mM) | `Discard` | 软删除
 [`SYlj8V`](./SYlj8V) | `Pagy` | 分页
 [`4gfs0Y`](./4gfs0Y) | `ConsoleHelper`
-[`THsjva`](./THsjva) | `Welcome`
 [`cojUb0`](./cojUb0) | `Spring` | `RSpec`
 [`tOC0Ml`](./tOC0Ml) | `DatabaseCleaner` | `Rspec`
 [`PpsT4C`](./PpsT4C) | `Ransack`
