@@ -54,7 +54,6 @@ bundle exec spring binstub --all
 
 名称|描述|备注
 :---:|:---:|:---
-[`fnWbEx`](./fnWbEx) | `rspec-rails`
 [`WFz9mc`](./WFz9mc) | `factory_bot`
 [`QJqK6v`](./QJqK6v) | `Guard::RSpec`
 [`oeR4Nd`](./oeR4Nd) | `Capybara`
